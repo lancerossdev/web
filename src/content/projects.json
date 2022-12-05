@@ -16,5 +16,33 @@
       "Astro",
       "TypeScript"
     ]
+  },
+  {
+    "title": "no-fuss-astro",
+    "description": "An Astro Template without complicated design and setup.",
+    "githubUrl": "https://github.com/lancerossdev/no-fuss-astro",
+    "technologies": [
+      "Astro",
+      "TypeScript"
+    ]
+  },
+  {
+    "title": "lancerossdev.github.io",
+    "description": "Just testing out GitHub Pages with Vite and Vue.",
+    "githubUrl": "https://github.com/lancerossdev/lancerossdev.github.io",
+    "technologies": [
+      "Vue",
+      "JavaScript",
+      "HTML"
+    ]
+  },
+  {
+    "title": "science-infographic",
+    "description": null,
+    "githubUrl": "https://github.com/lancerossdev/science-infographic",
+    "technologies": [
+      "Astro",
+      "JavaScript"
+    ]
   }
 ]
