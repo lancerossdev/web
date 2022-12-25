@@ -1,51 +1,50 @@
 [
   {
-    "title": "lanceross.xyz",
-    "description": "My blazingly fast website made with Astro.",
-    "githubUrl": "https://github.com/lancerossdev/lanceross.xyz",
-    "technologies": [
-      "Astro",
-      "TypeScript",
-      "JavaScript"
-    ],
-    "stargazers": 8
-  },
-  {
-    "title": "astro-basic-blog",
-    "description": "A fully-responsive basic blog theme made with Astro.",
-    "githubUrl": "https://github.com/lancerossdev/astro-basic-blog",
-    "technologies": [
-      "Astro",
-      "TypeScript",
-      "JavaScript"
-    ],
-    "stargazers": 12
-  },
-  {
-    "title": "no-fuss-astro",
-    "description": "An Astro Template without complicated design and setup.",
-    "githubUrl": "https://github.com/lancerossdev/no-fuss-astro",
+    "title": "web",
+    "description": "My site made with Astro.",
+    "githubUrl": "https://github.com/lancerossdev/web",
     "technologies": [
       "Astro",
       "TypeScript"
     ],
-    "stargazers": 4
+    "stargazers": 8
   },
   {
-    "title": "lanceross-blog",
-    "description": "A microsite version of my blog page inspired by Lee Rob.",
-    "githubUrl": "https://github.com/lancerossdev/lanceross-blog",
+    "title": "basicblog",
+    "description": "A fully-responsive basic blog theme made with Astro.",
+    "githubUrl": "https://github.com/lancerossdev/basicblog",
     "technologies": [
       "Astro",
       "TypeScript",
       "JavaScript"
     ],
-    "stargazers": 0
+    "stargazers": 15
   },
   {
-    "title": "open-graph-images",
-    "description": "Used for generating OG Images on my sites with Satori.",
-    "githubUrl": "https://github.com/lancerossdev/open-graph-images",
+    "title": "nofuss",
+    "description": "An Astro Template without complicated design and setup.",
+    "githubUrl": "https://github.com/lancerossdev/nofuss",
+    "technologies": [
+      "Astro",
+      "TypeScript"
+    ],
+    "stargazers": 7
+  },
+  {
+    "title": "blog",
+    "description": "Discontinued microsite version of my blog page.",
+    "githubUrl": "https://github.com/lancerossdev/blog",
+    "technologies": [
+      "Astro",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "stargazers": 1
+  },
+  {
+    "title": "satori",
+    "description": "Dynamic OG image generator for blogs.",
+    "githubUrl": "https://github.com/lancerossdev/satori",
     "technologies": [
       "TypeScript",
       "JavaScript",
